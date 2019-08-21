@@ -14,4 +14,3 @@ if (c+d)%2 == 0:
 else:
     print('IMPOSSIBLE')
 
-
