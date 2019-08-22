@@ -12,5 +12,4 @@ c,d = map(int,input().split())
 if (c+d)%2 == 0:
     print((c+d)//2)
 else:
-    print('IMPOSSIBLE')
-
+    print('IMPOSSIBLE') 
